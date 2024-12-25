@@ -21,7 +21,7 @@ const Contact = () => {
                </div>
                <div className='space-y-4 text-gray-600'>
                   <FiPhone  className='text-yellow-500 w-6 h-6'/>
-                  <span>+91939877410</span>
+                  <span>+919398774104</span>
                </div>
                 
             </div>
